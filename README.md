@@ -1069,6 +1069,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SweetHMAC](https://github.com/jancassio/SweetHMAC) - A tiny and easy to use class to encrypt strings using HMAC algorithms.
 * [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - Interface to the Sodium library for common crypto operations for iOS and OS X.
 * [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - Crypto toolkit.
+* [RNCryptor](https://github.com/RNCryptor/RNCryptor) - The wrappers of Apple's CCCryptor for iOS and Mac in Swift.
 
 #### Keychain
 [back to top](#readme) 
