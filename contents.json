@@ -2771,6 +2771,11 @@
       "homepage": "https://github.com/sleekbyte/tailor",
       "tags": ["linux"]
     }, {
+      "title": "IBLinter",
+      "category": "quality",
+      "description": "A linter tool for Interface Builder.",
+      "homepage": "https://github.com/kateinoigakukun/IBLinter"
+    }, {
       "title": "CryptoSwift",
       "category": "cryptography",
       "description": "Crypto related functions and helpers.",
@@ -2806,6 +2811,11 @@
       "category": "cryptography",
       "description": "Crypto toolkit.",
       "homepage": "https://github.com/SwiftP2P/SwiftSSL"
+    }, {
+      "title": "RNCryptor",
+      "category": "cryptography",
+      "description": "CCCryptor (Apple's AES encryption) wrappers for iOS and Mac.",
+      "homepage": "https://github.com/RNCryptor/RNCryptor"
     }, {
       "title": "keychain-swift",
       "category": "keychain",
@@ -5015,12 +5025,6 @@
       "description": "Collection view layout that makes your cells bounce.",
       "homepage": "https://github.com/roberthein/BouncyLayout"
     }, {
-      "title": "IBM Swift Sandbox",
-      "category": "repl",
-      "description": "Interactive website that lets you write code and execute it in a server environment.",
-      "homepage": "https://swift.sandbox.bluemix.net",
-      "tags": ["swift", "repl", "cloud", "docker", "sandbox", "linux"]
-    }, {
       "title": "Haptica",
       "category": "haptic-feedback",
       "description": "Easy Haptic Feedback Generator.",
@@ -5577,7 +5581,7 @@
   	}, {
       "title": "SwiftTips",
       "category": "third-party-guides",
-      "description": "A collection of useful tips share on Twitter by @JohnSundell.",
+      "description": "A collection of useful tips by John Sundell.",
       "homepage": "https://github.com/JohnSundell/SwiftTips"
     }, {
       "title": "ImagineEngine",
@@ -5603,7 +5607,7 @@
       "title": "Alerts Pickers",
       "category": "alert",
       "description": "Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.",
-      "homepage": "https://github.com/dillidon/Alerts-Pickers"
+      "homepage": "https://github.com/dillidon/alerts-and-pickers"
     }, {
       "title": "AZCollectionViewController",
       "category": "uicollectionview",
@@ -5617,8 +5621,31 @@
     }, {
       "title": "GradientProgressBar",
       "category": "ui",
-      "description": "A customizable gradient progress bar (UIProgressView)",
+      "description": "A customizable gradient progress bar (UIProgressView).",
       "homepage": "https://github.com/fxm90/GradientProgressBar"
+    }, {
+      "title": "Thingy",
+      "category": "device",
+      "description": "A modern device detection and querying library.",
+      "homepage": "https://github.com/bojan/Thingy",
+      "tags": ["device", "system"]
+    }, {
+		  "title": "Kinieta",
+		  "category": "animation",
+		  "description": "An simple Animation Engine for iOS with an Intuitive API and Readable Code",
+		  "homepage": "https://github.com/mmick66/kinieta",
+		  "tags": ["animation", "engine", "motion", "bezier"]
+    }, {
+      "title": "NextLevelSessionExporter",
+      "category": "video",
+      "description": "Export and transcode media.",
+      "homepage": "https://github.com/NextLevel/NextLevelSessionExporter"
+    }, {
+      "title": "Online Swift Playground",
+      "category": "repl",
+      "description": "Online Swift Playground.",
+      "homepage": "http://online.swiftplayground.run",
+      "tags": ["swift", "repl", "playground"]
     }
   ]
 }
