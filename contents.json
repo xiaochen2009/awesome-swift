@@ -2664,11 +2664,6 @@
       "description": "Lightweight loading activity HUD.",
       "homepage": "https://github.com/goktugyil/EZLoadingActivity"
     }, {
-      "title": "EZSwipeController",
-      "category": "ui",
-      "description": "UIPageViewController like Snapchat/Tinder/iOS Main Pages.",
-      "homepage": "https://github.com/goktugyil/EZSwipeController"
-    }, {
       "title": "FAQView",
       "category": "ui",
       "description": "An easy to use FAQ view for iOS.",
@@ -2950,11 +2945,6 @@
       "category": "alert",
       "description": "Lightweight dropdown message bar.",
       "homepage": "https://github.com/morizotter/SwiftyDrop"
-    }, {
-      "title": "RazzleDazzle",
-      "category": "walkthrough",
-      "description": "A simple keyframe-based animation framework for iOS. Perfect for scrolling app intros.",
-      "homepage": "https://github.com/IFTTT/RazzleDazzle"
     }, {
       "title": "SwiftCharts",
       "category": "chart",
@@ -3336,6 +3326,11 @@
       "category": "uitableview",
       "description": "PullToRefresh library.",
       "homepage": "https://github.com/dekatotoro/PullToRefreshSwift"
+    }, {
+       "title": "QuickTableViewController",
+       "category": "uitableview",
+       "description": "A simple way to create a UITableView for settings.",
+       "homepage": "https://github.com/bcylin/QuickTableViewController"
     }, {
       "title": "Shoyu",
       "category": "uitableview",
@@ -4203,7 +4198,7 @@
       "title": "ImageViewer",
       "category": "images",
       "description": "An image viewer à la Twitter",
-      "homepage": "https://github.com/MailOnline/ImageViewer"
+      "homepage": "https://github.com/Krisiacik/ImageViewer"
     }, {
       "title": "VGPlayer",
       "category": "video",
@@ -4894,6 +4889,12 @@
       "category": "utility",
       "description": "A fast and convenient diffing framework.",
       "homepage": "https://github.com/zenangst/Differific"
+    }, {
+      "title": "RxReduce",
+      "category": "events",
+      "description": "Reactive implementation of the state container pattern (like Redux). It is based on the simple concepts of state immutability and unidirectionnal data flow.",
+      "homepage": "https://github.com/RxSwiftCommunity/RxReduce",
+      "tags": ["rxswift", "redux", "state container"]
     }
   ]
 }
