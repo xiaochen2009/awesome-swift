@@ -1262,7 +1262,7 @@
     }, {
       "title": "HandyJSON",
       "category": "json",
-      "description": "A handy swift JSON-object serialization/deserialization library.",
+      "description": "A handy Swift JSON-object serialization/deserialization library.",
       "homepage": "https://github.com/alibaba/handyjson"
     }, {
       "title": "Himotoki",
@@ -2929,12 +2929,16 @@
       "category": "styling",
       "description": "Powerful theme/skin manager for iOS 8+.",
       "homepage": "https://github.com/jiecao-fm/SwiftTheme"
-    },
-    {
+    }, {
       "title": "DropDown",
       "category": "ui",
       "description": "A Material Design drop down for iOS.",
       "homepage": "https://github.com/AssistoLab/DropDown"
+    }, {
+      "title": "RxValidator",
+      "category": "validation",
+      "description": "Simple, Extensible, Flexible Validation Checker",
+      "homepage": "https://github.com/vbmania/RxValidator"
     }, {
       "title": "SwiftValidator",
       "category": "validation",
@@ -3750,7 +3754,7 @@
       "description": "A very flexible message bar for iOS.",
       "homepage": "https://github.com/SwiftKickMobile/SwiftMessages"
     }, {
-      "title": "Swift 4 Module Template",
+      "title": "Swift Module Template",
       "category": "boilerplates",
       "description": "An opinionated starting point for awesome, reusable modules.",
       "homepage": "https://github.com/fulldecent/swift4-module-template"
@@ -3863,7 +3867,7 @@
     {
       "title": "SwifterSwift",
       "category": "utility",
-      "description": "A handy collection of more than 500 native Swift 3 extensions to boost your productivity. ",
+      "description": "A handy collection of more than 500 native Swift extensions to boost your productivity. ",
       "homepage": "https://github.com/SwifterSwift/SwifterSwift",
       "tags": ["extensions", "ios"]
     },
@@ -4402,7 +4406,7 @@
     }, {
       "title": "VegaScroll",
       "category": "uicollectionview",
-      "description": "Lightweight animation flowlayout for UICollectionView completely written in Swift 4.",
+      "description": "Lightweight animation flowlayout for UICollectionView completely written in Swift.",
       "homepage": "https://github.com/AppliKeySolutions/VegaScroll"
     }, {
       "title": "MediaBrowser",
@@ -4844,6 +4848,11 @@
       "description": "Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.",
       "homepage": "https://github.com/Feghal/ImageDetect"
     }, {
+      "title": "Poly",
+      "category": "augmented-reality",
+      "description": "Unofficial Google Poly SDK – explore the world of 3D",
+      "homepage": "https://github.com/piemonte/Poly"
+    }, {
       "title": "TheAnimation",
       "category": "animation",
       "description": "Type-safe CAAnimation wrapper. It makes preventing to set wrong type values.",
@@ -4895,6 +4904,27 @@
       "description": "Reactive implementation of the state container pattern (like Redux). It is based on the simple concepts of state immutability and unidirectionnal data flow.",
       "homepage": "https://github.com/RxSwiftCommunity/RxReduce",
       "tags": ["rxswift", "redux", "state container"]
+    }, {
+      "title": "MessengerKit",
+      "category": "chat",
+      "description": "A UI framework for building messenger interfaces.",
+      "homepage": "https://github.com/steve228uk/MessengerKit"
+    }, {
+      "title": "swift-protobuf",
+      "category": "utility",
+      "description": "A plugin and runtime library for using Google's Protocol Buffer.",
+      "homepage": "https://github.com/apple/swift-protobuf",
+      "tags": ["linux"]
+    }, {
+      "title": "VerticalCardSwiper",
+      "category": "cards",
+      "description": "A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.",
+      "homepage": "https://github.com/JoniVR/VerticalCardSwiper"
+    }, {
+      "title": "AnimatedMaskLabel",
+      "category": "label",
+      "description": "A nice gradient animated label that make easy to add a shimmering effect to any view.",
+      "homepage": "https://github.com/imjog/AnimatedMaskLabel"
     }
   ]
 }
