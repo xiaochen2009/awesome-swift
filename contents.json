@@ -3361,6 +3361,11 @@
       "description": "Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate",
       "homepage": "https://github.com/younatics/ExpandableCell"
     }, {
+      "title": "SimpleSource",
+      "category": "uitableview",
+      "description": "Easy and type-safe iOS table and collection views.",
+      "homepage": "https://github.com/Squarespace/simple-source "
+    }, {
       "title": "AlexaSkillsKit",
       "category": "utility",
       "description": "Develop custom Alexa Skills.",
@@ -4071,6 +4076,11 @@
       "category": "uicollectionview",
       "description": "Fully customizable spreadsheet CollectionViewLayout.",
       "homepage": "https://github.com/stuffrabbit/SwiftSpreadsheet"
+    }, {
+      "title": "SimpleSource",
+      "category": "uicollectionview",
+      "description": "Easy and type-safe iOS table and collection views.",
+      "homepage": "https://github.com/Squarespace/simple-source "
     }, {
       "title": "SwiftyOnboard",
       "category": "walkthrough",
@@ -4925,6 +4935,22 @@
       "category": "label",
       "description": "A nice gradient animated label that make easy to add a shimmering effect to any view.",
       "homepage": "https://github.com/imjog/AnimatedMaskLabel"
+    }, {
+      "title": "Telegrammer",
+      "category": "bots",
+      "description": "Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.",
+      "homepage": "https://github.com/givip/Telegrammer",
+      "tags": ["linux", "swiftnio", "serverside"]
+    }, {
+      "title": "example-ios-apps",
+      "category": "other-awesome-lists",
+      "description": "An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.",
+      "homepage": "https://github.com/imjog/example-ios-apps"
+    }, {
+      "title": "UserDefaultsStore",
+      "category": "key-value-store",
+      "description": "Why not use UserDefaults to store Codable objects 😉",
+      "homepage": "https://github.com/omaralbeik/UserDefaultsStore"
     }
   ]
 }
