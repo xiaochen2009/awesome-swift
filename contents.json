@@ -635,7 +635,7 @@
       "title": "SwiftDoc",
       "category": "third-party-guides",
       "description": "Auto-generated documentation.",
-      "homepage": "http://swiftdoc.org/"
+      "homepage": "https://swiftdoc.org/"
     }, {
       "title": "SwiftGuide CN",
       "category": "third-party-guides",
@@ -1088,6 +1088,12 @@
       "category": "concurrency",
       "description": "Communicating sequential processes (CSP), Linux ready.",
       "homepage": "https://github.com/Zewo/Venice",
+      "tags": ["linux"]
+    }, {
+      "title": "Futures",
+      "category": "concurrency",
+      "description": "Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side.",
+      "homepage": "https://github.com/formbound/Futures",
       "tags": ["linux"]
     }, {
       "title": "GroupWork",
@@ -1714,6 +1720,11 @@
       "description": "GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.",
       "homepage": "https://github.com/BradLarson/GPUImage2"
     }, {
+      "title": "GPUImage 3",
+      "category": "images",
+      "description": "GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.",
+      "homepage": "https://github.com/BradLarson/GPUImage3"
+    }, {
       "title": "HanekeSwift",
       "category": "images",
       "description": "A lightweight generic cache for iOS with extra love for images.",
@@ -1894,6 +1905,11 @@
       "category": "auto-layout",
       "description": "A concise but flexible DSL for creating Auto Layout constraints and adding subviews.",
       "homepage": "https://github.com/jmfieldman/Mortar"
+    }, {
+      "title": "NorthLayout",
+      "category": "auto-layout",
+      "description": "Fast path to layout using Visual Format Language (VFL) with extended syntax",
+      "homepage": "https://github.com/banjun/NorthLayout"
     }, {
       "title": "PureLayout",
       "category": "auto-layout",
@@ -3309,7 +3325,7 @@
       "title": "Hero",
       "category": "transition",
       "description": "Elegant transition library for iOS.",
-      "homepage": "https://github.com/lkzhao/Hero"
+      "homepage": "https://github.com/HeroTransitions/Hero"
     }, {
       "title": "DTTableViewManager",
       "category": "uitableview",
@@ -3360,11 +3376,6 @@
       "category": "uitableview",
       "description": "Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate",
       "homepage": "https://github.com/younatics/ExpandableCell"
-    }, {
-      "title": "SimpleSource",
-      "category": "uitableview",
-      "description": "Easy and type-safe iOS table and collection views.",
-      "homepage": "https://github.com/Squarespace/simple-source "
     }, {
       "title": "AlexaSkillsKit",
       "category": "utility",
@@ -4951,6 +4962,37 @@
       "category": "key-value-store",
       "description": "Why not use UserDefaults to store Codable objects 😉",
       "homepage": "https://github.com/omaralbeik/UserDefaultsStore"
-    }
+    },
+    {
+      "title": "Crossroad",
+      "category": "app-routing",
+      "description": ":oncoming_bus: Crossroad is an URL router focused on handling Custom URL Schemes.",
+      "homepage": "https://github.com/giginet/Crossroad"
+    },
+    {
+      "title": "Sica",
+      "category": "animation",
+      "description": "Simple Interface Core Animation. Run type-safe animation sequencially or parallelly.",
+      "homepage": "https://github.com/cats-oss/Sica"
+    },
+    {
+      "title": "StyledTextKit",
+      "category": "textfield",
+      "description": "Declarative building and fast rendering attributed string library.",
+      "homepage": "https://github.com/GitHawkApp/StyledTextKit"
+    }, {
+      "title": "Perfect-CRUD",
+      "category": "orm",
+      "description": "CRUD is an object-relational mapping (ORM) system using Codable protocol.",
+      "homepage": "https://github.com/PerfectlySoft/Perfect-CRUD",
+      "tags": ["linux"]
+    },
+    {
+      "title": "Wormholy",
+      "category": "network",
+      "description": "iOS network debugging, like a wizard 🧙‍.",
+      "homepage": "https://github.com/pmusolino/Wormholy", 
+      "tags": ["network", "debugger", "log", "logger", "logging", "logging-library", "debug", "sniffer", "NSURLSession", "Alamofire", "AFNetworking"]
+    }   
   ]
 }
