@@ -2373,6 +2373,11 @@
       "description": "CCCryptor (Apple's AES encryption) wrappers for iOS and Mac.",
       "homepage": "https://github.com/RNCryptor/RNCryptor"
     }, {
+      "title": "Themis",
+      "category": "cryptography",
+      "description": "Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.",
+      "homepage": "https://github.com/cossacklabs/themis"
+    }, {
       "title": "keychain-swift",
       "category": "keychain",
       "description": "Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.",
@@ -4185,6 +4190,11 @@
       "description": "Curated newsletter.",
       "homepage": "https://www.natashatherobot.com"
     }, {
+      "title": "Indie iOS Focus Weekly",
+      "category": "newsletter",
+      "description": "Curated weekly iOS newsletter.",
+      "homepage": "https://indieiosfocus.com"
+    }, {
       "title": "Swift Weekly Brief",
       "category": "newsletter",
       "description": "A multi author curated newsletter.",
@@ -4962,20 +4972,17 @@
       "category": "key-value-store",
       "description": "Why not use UserDefaults to store Codable objects 😉",
       "homepage": "https://github.com/omaralbeik/UserDefaultsStore"
-    },
-    {
+    }, {
       "title": "Crossroad",
       "category": "app-routing",
       "description": ":oncoming_bus: Crossroad is an URL router focused on handling Custom URL Schemes.",
       "homepage": "https://github.com/giginet/Crossroad"
-    },
-    {
+    }, {
       "title": "Sica",
       "category": "animation",
       "description": "Simple Interface Core Animation. Run type-safe animation sequencially or parallelly.",
       "homepage": "https://github.com/cats-oss/Sica"
-    },
-    {
+    }, {
       "title": "StyledTextKit",
       "category": "textfield",
       "description": "Declarative building and fast rendering attributed string library.",
@@ -4986,13 +4993,24 @@
       "description": "CRUD is an object-relational mapping (ORM) system using Codable protocol.",
       "homepage": "https://github.com/PerfectlySoft/Perfect-CRUD",
       "tags": ["linux"]
-    },
-    {
+    }, {
       "title": "Wormholy",
       "category": "network",
       "description": "iOS network debugging, like a wizard 🧙‍.",
-      "homepage": "https://github.com/pmusolino/Wormholy", 
+      "homepage": "https://github.com/pmusolino/Wormholy",
       "tags": ["network", "debugger", "log", "logger", "logging", "logging-library", "debug", "sniffer", "NSURLSession", "Alamofire", "AFNetworking"]
-    }   
+    }, {
+      "title": "Awesome iOS Interview",
+      "category": "other-awesome-lists",
+      "description": "List of the questions that helps you to prepare for the interview",
+      "homepage": "https://github.com/dashvlas/awesome-ios-interview",
+      "tags": ["interview", "ios-developer", "question list"]
+    }, {
+      "title": "FluentQuery",
+      "category": "utility",
+      "description": "Powerful and easy to use Swift Query Builder.",
+      "homepage": "https://github.com/MihaelIsaev/FluentQuery",
+      "tags": ["linux"]
+    }
   ]
 }
