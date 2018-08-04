@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 858 | July 25, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 861 | August 03, 2018
 
 ### Contents
 
@@ -617,6 +617,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [Bond](https://github.com/DeclarativeHub/Bond) - Binding framework.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - Promise and future lib.
+* [EasyFutures](https://github.com/DimaMishchenko/EasyFutures) - 🔗Futures & Promises. Easy to use. Highly combinable.
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - Implementation of event emitters and listeners.
 * [FutureKit](https://github.com/FutureKit/FutureKit) - Future/Promises Library.
 * [Katana](https://github.com/BendingSpoons/katana-swift) - Write apps a la React and Redux.
@@ -1444,6 +1445,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Delegated](https://github.com/dreymonde/Delegated) - Closure-based delegation without memory leaks.
 * [Differific](https://github.com/zenangst/Differific) - A fast and convenient diffing framework.
 * [Dollar](https://github.com/ankurp/Dollar) - Similar to Lo-Dash or Underscore in Javascript.
+* [EtherWalletKit](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - How standard types and classes were supposed to work.
 * [FluentQuery](https://github.com/MihaelIsaev/FluentQuery) :penguin: - Powerful and easy to use Swift Query Builder.
 * [FluxCapacitor](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.
@@ -1510,6 +1512,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 [back to top](#readme) 
 
 * [BMPlayer](https://github.com/BrikerMan/BMPlayer) - A video player for iOS, based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brigtness and seek by slide.
+* [Cabbage](https://github.com/VideoFlint/Cabbage) - A video composition framework build on top of AVFoundation.
 * [MMPlayerView](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
 * [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 * [NextLevelSessionExporter](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
