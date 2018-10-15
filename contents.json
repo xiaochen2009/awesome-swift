@@ -1046,6 +1046,11 @@
       "description": "Flat UI color palette.",
       "homepage": "https://github.com/brynbellomy/FlatUIColors"
     }, {
+      "title": "Gradients",
+      "category": "colors",
+      "description": "A curated collection of splendid 180+ gradients.",
+      "homepage": "https://github.com/cruisediary/Gradients"
+    }, {
       "title": "HexColor",
       "category": "colors",
       "description": "Define UIColors as Hex integers.",
@@ -1757,6 +1762,11 @@
       "description": "Facebook album photo picker.",
       "homepage": "https://github.com/floriangbh/FacebookImagePicker"
     }, {
+        "title": "FMPhotoPicker",
+        "category": "images",
+        "description": "A modern, simple and zero-dependency photo picker with an elegant and customizable image editor",
+        "homepage": "https://github.com/tribalmedia/FMPhotoPicker"
+    }, {
       "title": "gifu",
       "category": "images",
       "description": "Highly performant animated GIF support for iOS.",
@@ -1937,6 +1947,11 @@
       "category": "auto-layout",
       "description": "Declarative auto layout lib for your project.",
       "homepage": "https://github.com/robb/Cartography"
+    }, {
+      "title": "DeviceLayout",
+      "category": "auto-layout",
+      "description": "AutoLayout can be set differently for each device.",
+      "homepage": "https://github.com/cruisediary/DeviceLayout"
     }, {
       "title": "EasyPeasy",
       "category": "auto-layout",
@@ -2425,6 +2440,11 @@
       "description": "Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.",
       "homepage": "https://github.com/cossacklabs/themis"
     }, {
+      "title": "JOSESwift",
+      "category": "cryptography",
+      "description": "A framework for the JOSE standards JWS, JWE, and JWK.",
+      "homepage": "https://github.com/airsidemobile/JOSESwift"
+    }, {
       "title": "keychain-swift",
       "category": "keychain",
       "description": "Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.",
@@ -2531,6 +2551,11 @@
       "category": "testing",
       "description": "A matcher framework.",
       "homepage": "https://github.com/Quick/Nimble"
+    }, {
+      "title": "Sizes",
+      "category": "testing",
+      "description": "Test your app on different device and font sizes",
+      "homepage": "https://github.com/marcosgriselli/Sizes"
     }, {
       "title": "AttributedTextView",
       "category": "text",
@@ -3964,6 +3989,12 @@
       "homepage": "https://objectivec2swift.com",
       "tags": ["extensions", "ios", "macos", "objective-c", "swift"]
     }, {
+      "title": "Zolang",
+      "homepage": "https://github.com/Zolang/Zolang",
+      "category": "converters",
+      "description": "A DSL for generating code in multiple programming languages",
+      "tags": ["extensions", "ios", "macos", "linux", "swift"]
+    }, {
       "title": "LocalizationKit",
       "category": "localization",
       "description": "Realtime dynamic localization of your app with remote management so you can manage maintain and deploy translations without resubmitting app.",
@@ -4773,11 +4804,6 @@
       "description": "An animated gradient loading bar.",
       "homepage": "https://github.com/fxm90/GradientLoadingBar"
     }, {
-      "title": "GradientProgressBar",
-      "category": "ui",
-      "description": "A customizable gradient progress bar (UIProgressView).",
-      "homepage": "https://github.com/fxm90/GradientProgressBar"
-    }, {
       "title": "Thingy",
       "category": "device",
       "description": "A modern device detection and querying library.",
@@ -5130,6 +5156,52 @@
       "category": "chat",
       "description": "A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.",
       "homepage": "https://github.com/nathantannar4/InputBarAccessoryView"
+    }, {
+      "title": "Sheet",
+      "category": "alert",
+      "description": "Actionsheet with navigation features such as the Flipboard App.",
+      "homepage": "https://github.com/ParkGwangBeom/Sheet"
+    }, {
+      "title": "voice-overlay-ios",
+      "category": "audio",
+      "description": "An overlay that gets your user’s voice permission and input as text in a customizable UI.",
+      "homepage": "https://github.com/algolia/voice-overlay-ios"
+    }, {
+      "title": "LightRoute",
+      "category": "app-routing",
+      "description": "Routing between VIPER modules.",
+      "homepage": "https://github.com/SpectralDragon/LightRoute"
+    }, {
+      "title": "Viperit",
+      "category": "patterns",
+      "description": "Viper Framework for iOS.",
+      "homepage": "https://github.com/ferranabello/Viperit"
+    }, {
+      "title": "Lumos",
+      "category": "utility",
+      "description": "An easy-to-use API for Objective-C runtime functions.",
+      "homepage": "https://github.com/sushinoya/Lumos"
+    }, {
+      "title": "Panels",
+      "category": "menu",
+      "description": "Panels is a framework to easily add sliding panels to your application.",
+      "homepage": "https://github.com/antoniocasero/Panels"
+    }, {
+      "title": "Kitsunebi",
+      "category": "video",
+      "description": "Overlay alpha channel video animation player view using OpenGLES.",
+      "homepage": "https://github.com/noppefoxwolf/Kitsunebi"
+    }
+    , {
+      "title": "CleanArchitectureRxSwift",
+      "category": "patterns",
+      "description": "Example of Clean Architecture of iOS app using RxSwift.",
+      "homepage": "https://github.com/sergdort/CleanArchitectureRxSwift"
+    }, {
+      "title": "LinkedInSignIn",
+      "category": "authentication",
+      "description": "Simple view controller to log in and retrieve an access token from LinkedIn.",
+      "homepage": "https://github.com/serhii-londar/LinkedInSignIn"
     }
   ]
 }
