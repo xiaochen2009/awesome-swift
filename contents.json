@@ -1346,7 +1346,7 @@
       "title": "ObjectMapper",
       "category": "json",
       "description": "JSON object mapper.",
-      "homepage": "https://github.com/Hearst-DD/ObjectMapper"
+      "homepage": "https://github.com/tristanhimmelman/ObjectMapper"
     }, {
       "title": "SwiftyJSON",
       "category": "json",
@@ -2530,6 +2530,12 @@
       "description": "Quick is a behavior-driven development framework.",
       "homepage": "https://github.com/Quick/Quick",
       "tags": ["linux"]
+    }, {
+      "title": "SnapshotTest",
+      "category": "testing",
+      "description": "Snapshot testing tool for iOS and tvOS.",
+      "homepage": "https://github.com/parski/SnapshotTest",
+      "tags": ["iOS", "tvOS"]
     }, {
       "title": "Spectre",
       "category": "testing",
@@ -5208,15 +5214,50 @@
       "description": "Simple view controller to log in and retrieve an access token from LinkedIn.",
       "homepage": "https://github.com/serhii-londar/LinkedInSignIn"
     }, {
+      "title": "Reactant",
+      "category": "patterns",
+      "description": "Reactant is a reactive architecture for iOS.",
+      "homepage": "https://github.com/Brightify/Reactant"
+    }, {
       "title": "HaishinKit",
       "category": "streaming",
       "description": "Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.",
       "homepage": "https://github.com/shogo4405/HaishinKit.swift"
     }, {
+      "title": "XCTest",
+      "category": "testing",
+      "description": "The XCTest Project, A Swift core library for providing unit test support.",
+      "homepage": "https://github.com/apple/swift-corelibs-xctest"
+    }, {
       "title": "Defaults",
       "category": "key-value-store",
       "description": "Strongly-typed UserDefaults with support for Codable and key observation.",
       "homepage": "https://github.com/sindresorhus/Defaults"
+    }, {
+      "title": "Preferences",
+      "category": "ui",
+      "description": "Add a preferences window to your macOS app in minutes.",
+      "homepage": "https://github.com/sindresorhus/Preferences"
+    }, {
+      "title": "LaunchAtLogin",
+      "category": "system",
+      "description": "Easily add 'Launch at Login' functionality to your sandboxed macOS app.",
+      "homepage": "https://github.com/sindresorhus/LaunchAtLogin"
+    }, {
+      "title": "DockProgress",
+      "category": "ui",
+      "description": "Show progress in your macOS app's Dock icon.",
+      "homepage": "https://github.com/sindresorhus/DockProgress"
+    }, {
+      "title": "OnboardKit",
+      "category": "walkthrough",
+      "description": "Customisable user onboarding for your iOS app.",
+      "homepage": "https://github.com/NikolaKirev/OnboardKit"
+    }, {
+      "title": "CircularProgress",
+      "category": "ui",
+      "description": "Circular progress indicator for your macOS app.",
+      "homepage": "https://github.com/sindresorhus/CircularProgress"
     }
   ]
 }
