@@ -2159,6 +2159,11 @@
       "description": "Robust networking for web APIs.",
       "homepage": "https://github.com/mindbody/Conduit"
     }, {
+      "title": "CodyFire",
+      "category": "network",
+      "description": "Powerful Codable API requests builder and manager for iOS. Based on Alamofire.",
+      "homepage": "https://github.com/MihaelIsaev/CodyFire"
+    }, {
       "title": "Heimdallr.swift",
       "category": "network",
       "description": "Easy to use OAuth 2 library for iOS.",
@@ -3795,7 +3800,7 @@
       "title": "Facebook",
       "category": "SDK",
       "description": "Official Facebook SDK.",
-      "homepage": "https://github.com/facebook/facebook-sdk-swift"
+      "homepage": "https://github.com/facebook/facebook-swift-sdk"
     }, {
       "title": "Translucid",
       "category": "label",
@@ -5275,6 +5280,16 @@
       "description": "Rough lets you draw in a sketchy, hand-drawn-like, style.",
       "homepage": "https://github.com/bakhtiyork/Rough",
       "tags": ["swift", "sketchy", "hand-drawn"]
+    }, {
+      "title": "Pixel",
+      "category": "images",
+      "description": "An image editor and engine using CoreImage.",
+      "homepage": "https://github.com/muukii/Pixel"
+    },  {
+      "title": "UICollectionViewSplitLayout",
+      "category": "uicollectionview",
+      "description": "UICollectionViewSplitLayout makes collection view more responsive.",
+      "homepage": "https://github.com/yahoojapan/UICollectionViewSplitLayout"
     }
   ]
 }
