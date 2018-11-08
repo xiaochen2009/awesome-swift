@@ -4174,7 +4174,7 @@
       "title": "EFQRCode",
       "category": "barcode",
       "description": "A better way to operate quick response code.",
-      "homepage": "https://github.com/EyreFree/EFQRCode",
+      "homepage": "https://github.com/EFPrefix/EFQRCode",
       "tags": ["swift", "qrcode", "barcode", "generator", "recognizer"]
     }, {
       "title": "LoginKit",
@@ -5290,6 +5290,11 @@
       "category": "uicollectionview",
       "description": "UICollectionViewSplitLayout makes collection view more responsive.",
       "homepage": "https://github.com/yahoojapan/UICollectionViewSplitLayout"
+    }, {
+      "title": "AHDownloadButton",
+      "category": "button",
+      "description": "Customizable download button with progress and transition animations. It is based on Apple's App Store download button.",
+      "homepage": "https://github.com/amerhukic/AHDownloadButton"
     }
   ]
 }
