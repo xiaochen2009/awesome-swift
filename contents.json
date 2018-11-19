@@ -2293,9 +2293,13 @@
     }, {
       "title": "BlueSocket",
       "category": "socket",
-      "description": "IBM's low level socket framework.",
-      "homepage": "https://github.com/IBM-Swift/BlueSocket",
-      "tags": ["linux"]
+      "description": "IBM's cross platform low level socket framework.",
+      "homepage": "https://github.com/IBM-Swift/BlueSocket"
+    }, {
+      "title": "BlueSSLService",
+      "category": "socket",
+      "description": "SSL/TLS add-in for IBM's low level socket framework.",
+      "homepage": "https://github.com/IBM-Swift/BlueSSLService"
     }, {
       "title": "Socket.IO",
       "category": "socket",
@@ -2414,6 +2418,16 @@
       "description": "A linter tool for Interface Builder.",
       "homepage": "https://github.com/IBDecodable/IBLinter"
     }, {
+      "title": "BlueCryptor",
+      "category": "cryptography",
+      "description": "IBM's Cross Platform Crypto library.",
+      "homepage": "https://github.com/IBM-Swift/BlueCryptor"
+    }, {
+      "title": "BlueRSA",
+      "category": "cryptography",
+      "description": "IBM's Cross Platform RSA Crypto library.",
+      "homepage": "https://github.com/IBM-Swift/BlueRSA"
+    }, {
       "title": "CryptoSwift",
       "category": "cryptography",
       "description": "Crypto related functions and helpers.",
@@ -2484,6 +2498,11 @@
       "category": "sensors",
       "description": "iOS device sensors wrapper.",
       "homepage": "https://github.com/MHaroonBaig/MotionKit"
+    }, {
+      "title": "BlueSignals",
+      "category": "system",
+      "description": "IBM's Cross Platform OS signal handling library.",
+      "homepage": "https://github.com/IBM-Swift/BlueSignals"
     }, {
       "title": "SMCKit",
       "category": "system",
@@ -3129,6 +3148,11 @@
       "description": "UITextField-Navigation adds next, previous and done buttons to the keyboard for your UITextFields. Highly customizable.",
       "homepage": "https://github.com/T-Pham/UITextField-Navigation"
     }, {
+      "title": "ALRT",
+      "category": "alert",
+      "description": "An easier constructor for UIAlertController. Present an alert from anywhere.",
+      "homepage": "https://github.com/mshrwtnb/alrt"
+    }, {
       "title": "Alertift",
       "category": "alert",
       "description": "Modern, easy UIAlertController wrapper.",
@@ -3165,7 +3189,7 @@
       "homepage": "https://github.com/ytakzk/Hokusai"
     }, {
       "title": "Jelly",
-      "category": "alert",
+      "category": "transition",
       "description": "Jelly provides custom view controller transitions with just a few lines of code.",
       "homepage": "https://github.com/SebastianBoldt/Jelly"
     }, {
@@ -3363,7 +3387,7 @@
       "title": "MFCard",
       "category": "payment",
       "description": "Easily integrate Credit Card payments in iOS App.",
-      "homepage": "https://github.com/MobileFirstInc/MFCard"
+      "homepage": "https://github.com/RC7770/MFCard"
     }, {
       "title": "Permission",
       "category": "permissions",
@@ -3424,6 +3448,11 @@
       "category": "transition",
       "description": "Elegant transition library for iOS.",
       "homepage": "https://github.com/HeroTransitions/Hero"
+    }, {
+      "title": "ImageTransition",
+      "category": "transition",
+      "description": "ImageTransition is a library for smooth animation of images during transitions.",
+      "homepage": "https://github.com/shtnkgm/ImageTransition"
     }, {
       "title": "DTTableViewManager",
       "category": "uitableview",
@@ -5295,6 +5324,32 @@
       "category": "button",
       "description": "Customizable download button with progress and transition animations. It is based on Apple's App Store download button.",
       "homepage": "https://github.com/amerhukic/AHDownloadButton"
-    }
+    }, {
+      "title": "PaperOnboarding",
+      "category": "walkthrough",
+      "description": "PaperOnboarding is a material design UI slider.",
+      "homepage": "https://github.com/Ramotion/paper-onboarding"
+    }, {
+      "title": "CircleMenu",
+      "category": "menu",
+      "description": "CircleMenu is a simple, elegant UI menu with a circular layout and material design animations.",
+      "homepage": "https://github.com/Ramotion/circle-menu"
+    }, {
+      "title": "GithubAPI",
+      "category": "api",
+      "description": "Implementation of Github REST API v3",
+      "homepage": "https://github.com/serhii-londar/GithubAPI"
+    }, {
+      "title": "Gliding Collection",
+      "category": "uicollectionview",
+      "description": "Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Controller.",
+      "homepage": "https://github.com/Ramotion/gliding-collection"
+    },
+    {
+       "title": "WeakableSelf",
+       "category": "utility",
+       "description": "A micro-framework to encapsulate [weak self] and guard statements within closures.",
+       "homepage": "https://github.com/vincent-pradeilles/weakable-self"
+     }
   ]
 }
