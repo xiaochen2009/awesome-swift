@@ -586,6 +586,14 @@
     "parent": "game-engine"
   }],
   "projects": [{
+	  
+      "title": "ModelAssistant",
+      "category": "multi-database",
+      "description": "Elegant library to manage the interactions between view and model",
+      "homepage": "https://github.com/ssamadgh/ModelAssistant",
+      "tags": ["swift", "uitableview", "uicollectionview", "ios"]
+
+  }, {
 		"title": "Cards XI",
 		"category": "transition",
 		"description": "Awesome iOS 11 AppStore's Card Views.",
@@ -2968,6 +2976,11 @@
       "description": "Apple TV Parallax effect.",
       "homepage": "https://github.com/DroidsOnRoids/MPParallaxView"
     }, {
+      "title": "Arale",
+      "category": "ui",
+      "description": "A custom stretchable header view for UIScrollView or any its subclasses with UIActivityIndicatorView support for content reloading.",
+      "homepage": "https://github.com/ZulwiyozaPutra/Arale"
+     }, {
       "title": "MXParallaxHeader",
       "category": "ui",
       "description": "Simple parallax header for UIScrollView.",
@@ -5335,9 +5348,9 @@
       "description": "CircleMenu is a simple, elegant UI menu with a circular layout and material design animations.",
       "homepage": "https://github.com/Ramotion/circle-menu"
     }, {
-      "title": "GithubAPI",
+      "title": "GitHubAPI",
       "category": "api",
-      "description": "Implementation of Github REST API v3",
+      "description": "Implementation of GitHub REST API v3",
       "homepage": "https://github.com/serhii-londar/GithubAPI"
     }, {
       "title": "Gliding Collection",
@@ -5350,6 +5363,12 @@
        "category": "utility",
        "description": "A micro-framework to encapsulate [weak self] and guard statements within closures.",
        "homepage": "https://github.com/vincent-pradeilles/weakable-self"
+     },
+    {
+       "title": "RequestPermission",
+       "category": "permissions",
+       "description": "Simple permission request with beautiful UI.",
+       "homepage": "https://github.com/IvanVorobei/SPPermission"
      }
   ]
 }
